@@ -10,3 +10,5 @@
   </p>
   <video src="PlaceholderVideo.mp4" poster="Poster.png" width="960" height="540" controls preload></video>
 </html>
+
+The video works you just need to go to the actual site
