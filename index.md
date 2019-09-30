@@ -12,4 +12,6 @@
   <!-- It works just go to site -->
   <!-- Neat bro!-->
   <button onclick="window.location.href = 'video';">Seperate Video Page</button>
+  <br>
+  <button onclick="window.location.href = 'kahoot';">Kahoot!</button>
 </html>
