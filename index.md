@@ -10,5 +10,6 @@
   </p>
   <video src="PlaceholderVideo.mp4" poster="Poster.png" width="960" height="540" controls preload></video>
   <!-- It works just go to site -->
+  <!-- Neat bro!-->
   <button onclick="window.location.href = 'video';">Seperate Video Page</button>
 </html>
