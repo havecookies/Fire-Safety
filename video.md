@@ -5,3 +5,5 @@
   <source src="PlaceholderVideo.mp4" type="video/mp4">
 Your browser does not support videos.
 </video>
+<br>
+  <button onclick="window.location.href = 'index';">Back to home page</button>
