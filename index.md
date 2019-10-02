@@ -5,8 +5,6 @@
   <h3>
     Introduction
   </h3>  
-  <br>
-  <iframe src="https://puzzledude98.github.io/firesafety" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1200px" allowfullscreen></iframe>
   <p>
     Fire safety is Important in cooking. For example, You can burn your house down trying to make something as simple as eggs. You should     always know what to do in case of a fire, which is why we are doing a project on this.
   </p>
