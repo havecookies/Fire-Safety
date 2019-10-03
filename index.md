@@ -14,4 +14,6 @@
   <button onclick="window.location.href = 'video';">Seperate Video Page</button>
   <br>
   <button onclick="window.location.href = 'kahoot';">Kahoot!</button>
+  <br>
+  <button onclick="window.location.href = 'greasefire'">opsiadpoiasodiasodpiapodioapsdipoa Grease fire safety djsadjaskldjask</button>
 </html>
